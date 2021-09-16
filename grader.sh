@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 clear
 echo -e "\e[1;34mWelcome the CS 193 Homework 1 Grader!\e[0m"
